@@ -1,0 +1,14 @@
+{
+  "name": "GSM Calculator - Aaron Denim",
+  "short_name": "Aaron GSM",
+  "description": "Denim Industry Standard GSM Calculator by Ibrahim Hasan - Aaron Denim Ltd",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12133a",
+  "theme_color": "#12133a",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "./icon-192.png","sizes": "192x192","type": "image/png","purpose": "any maskable"},
+    {"src": "./icon-512.png","sizes": "512x512","type": "image/png"}
+  ]
+}
